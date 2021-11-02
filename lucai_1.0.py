@@ -2,7 +2,7 @@
 # This is to practice Python, APIs, & weak AI
 
 import wolframalpha
-client = wolframalpha.Client("WQPH5L-WLKTTL2J5K")
+client = wolframalpha.Client("key-goes-here")
 
 import PySimpleGUI as sg
 import wikipedia
